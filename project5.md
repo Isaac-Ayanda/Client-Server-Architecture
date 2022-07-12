@@ -1,6 +1,6 @@
 ## Client Server Architecture Implementation 
 
-1. Launch two EC2 linux servers on AWS cloud. Rename one as MYSQL-SERVER and the other as MYSQL-CLIENT.
+1. Launch two EC2 linux ubuntu servers on AWS cloud. Rename one as MYSQL-SERVER and the other as MYSQL-CLIENT.
 
 ![Setup](./images/launch-2-instances.jpg)
 ![Setup](./images/launch-2-instances2.jpg)
